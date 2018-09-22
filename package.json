@@ -1,0 +1,19 @@
+{
+  "name": "vidimpact",
+  "version": "1.0.0",
+  "description": "facebook video ad",
+  "main": "'SAMPLE_CODE.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Video"
+  ],
+  "author": "Allison Wifa",
+  "license": "ISC",
+  "dependencies": {
+    "facebook-nodejs-ads-sdk": "^2.11.4",
+    "facebook-nodejs-business-sdk": "^3.1.0"
+  }
+}
